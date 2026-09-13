@@ -1,6 +1,7 @@
 # Coding Platform Database
 
 A relational database model for an online competitive coding platform, including users, problems, submissions, contests, discussions, and analytics queries.
+This was done as the central project for the coursework of **Database Management System (DBMS)** in Semester-4.
 
 ## 📌 Project Overview
 
